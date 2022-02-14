@@ -1,0 +1,51 @@
+[ {
+  "uid" : "950a2888baeb06f4",
+  "name" : "test_points_reward",
+  "time" : {
+    "start" : 1570782212070,
+    "stop" : 1570782245113,
+    "duration" : 33043
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6e88d8433c2eb59",
+  "name" : "test_normal_shopping",
+  "time" : {
+    "start" : 1570782164270,
+    "stop" : 1570782203406,
+    "duration" : 39136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38da677aa07b92eb",
+  "name" : "test_group_purchase",
+  "time" : {
+    "start" : 1570782253663,
+    "stop" : 1570782291824,
+    "duration" : 38161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dedaaa6252f10ba1",
+  "name" : "test_appraisal_system",
+  "time" : {
+    "start" : 1570782034134,
+    "stop" : 1570782133709,
+    "duration" : 99575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6855508e23b1ba61",
+  "name" : "test_promotion_purchase",
+  "time" : {
+    "start" : 1570782300463,
+    "stop" : 1570782340087,
+    "duration" : 39624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

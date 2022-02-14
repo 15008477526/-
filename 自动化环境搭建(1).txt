@@ -1,0 +1,21 @@
+1. 安装python3.8
+
+2. 安装robotframework
+   pip install robotframework
+   
+3. 安装robotfrmaework—ride
+   pip install -U --pre robotframework-ride
+
+
+4. 安装其他测试库（包）
+   1） MQTT library
+       pip install robotframework-mqttlibrary
+   
+   2）HTTP RequestsLibrary
+      pip install robotframework-requests
+
+   3） 数据库
+       pip install robotframework-databaselibrary
+	   pip install psycopg2
+
+

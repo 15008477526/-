@@ -1,0 +1,94 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "script",
+    "children" : [ {
+      "name" : "test_01_comment_system",
+      "children" : [ {
+        "name" : "test_appraisal_system",
+        "uid" : "dedaaa6252f10ba1",
+        "parentUid" : "fb5f792879ccea91c666c2a2f8b5f194",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782034134,
+          "stop" : 1570782133709,
+          "duration" : 99575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb5f792879ccea91c666c2a2f8b5f194"
+    }, {
+      "name" : "test_02_normal_shopping",
+      "children" : [ {
+        "name" : "test_normal_shopping",
+        "uid" : "f6e88d8433c2eb59",
+        "parentUid" : "fbae4b71003548a9ef4d022bb8263be5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782164270,
+          "stop" : 1570782203406,
+          "duration" : 39136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fbae4b71003548a9ef4d022bb8263be5"
+    }, {
+      "name" : "test_03_points_reward",
+      "children" : [ {
+        "name" : "test_points_reward",
+        "uid" : "950a2888baeb06f4",
+        "parentUid" : "1b6198c509e44a6851857730ffaac829",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782212070,
+          "stop" : 1570782245113,
+          "duration" : 33043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1b6198c509e44a6851857730ffaac829"
+    }, {
+      "name" : "test_04_group_purchase",
+      "children" : [ {
+        "name" : "test_group_purchase",
+        "uid" : "38da677aa07b92eb",
+        "parentUid" : "9878f8b476f3979369fdc07c935680d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782253663,
+          "stop" : 1570782291824,
+          "duration" : 38161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9878f8b476f3979369fdc07c935680d3"
+    }, {
+      "name" : "test_05_promotion_purchase",
+      "children" : [ {
+        "name" : "test_promotion_purchase",
+        "uid" : "6855508e23b1ba61",
+        "parentUid" : "9f23ffadd782c5f33b750e070573c714",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782300463,
+          "stop" : 1570782340087,
+          "duration" : 39624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f23ffadd782c5f33b750e070573c714"
+    } ],
+    "uid" : "2d258e50f809e12c60d78a98d379d9c8"
+  } ]
+}

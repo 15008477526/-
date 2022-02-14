@@ -1,0 +1,97 @@
+{
+  "uid" : "f6e88d8433c2eb59",
+  "name" : "test_normal_shopping",
+  "fullName" : "script.test_02_normal_shopping.TestNormalShopping#test_normal_shopping",
+  "historyId" : "0d0f7c150eb152d95af6b5a3a0653391",
+  "time" : {
+    "start" : 1570782164270,
+    "stop" : 1570782203406,
+    "duration" : 39136
+  },
+  "description" : "购买普通商品测试用例",
+  "descriptionHtml" : "<p>购买普通商品测试用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1570782157440,
+      "stop" : 1570782164269,
+      "duration" : 6829
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1570782203406,
+      "stop" : 1570782205275,
+      "duration" : 1869
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_normal_shopping"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestNormalShopping"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NG4I1P1"
+  }, {
+    "name" : "thread",
+    "value" : "13228-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_02_normal_shopping"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e1b4b3056ddce91d",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'bool' object has no attribute 'text'",
+      "time" : {
+        "start" : 1570782142473,
+        "stop" : 1570782155535,
+        "duration" : 13062
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6e88d8433c2eb59.json",
+  "parameterValues" : [ ]
+}

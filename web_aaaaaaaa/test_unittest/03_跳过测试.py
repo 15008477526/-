@@ -1,0 +1,37 @@
+# 导入
+import unittest
+
+# 创建测试类
+class Test_Demo_2(unittest.TestCase):
+
+# 添加特殊方法
+    def setUp(self):
+        print('setUp在每条测试用例前执行一次')
+
+    def tearDown(self):
+        print('tearDown在每条测试用例执行后执行一次')
+
+    @classmethod
+    def setUpClass(cls):
+        print('setUpClass在所有测试用例前执行前执行一次')
+
+    @classmethod
+    def tearDownClass(cls):
+        print('tearDownClass在所有测试用例前执行后执行一次')
+
+# 添加测试用例
+    def test_case_a(self):
+        '''测试用例1'''
+        print('执行测试用例1')
+
+    def test_case_c(self):
+        '''测试用例3'''
+        print('执行测试用例3')
+
+    @unittest.skip('不想看到你')
+    def test_case_b(self):
+         '''测试用例2'''
+         print('执行测试用例2')
+
+if __name__ == '__main__':
+    unittest.main(verbosity=2)

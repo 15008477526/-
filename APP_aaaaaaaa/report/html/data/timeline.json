@@ -1,0 +1,108 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-NG4I1P1",
+    "children" : [ {
+      "name" : "13228-MainThread",
+      "children" : [ {
+        "name" : "test_normal_shopping",
+        "uid" : "e1b4b3056ddce91d",
+        "parentUid" : "1980e0a0eab6ac392c457d9d4038e20d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1570782142473,
+          "stop" : 1570782155535,
+          "duration" : 13062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_appraisal_system",
+        "uid" : "dedaaa6252f10ba1",
+        "parentUid" : "1980e0a0eab6ac392c457d9d4038e20d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782034134,
+          "stop" : 1570782133709,
+          "duration" : 99575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_group_purchase",
+        "uid" : "38da677aa07b92eb",
+        "parentUid" : "1980e0a0eab6ac392c457d9d4038e20d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782253663,
+          "stop" : 1570782291824,
+          "duration" : 38161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_normal_shopping",
+        "uid" : "f6e88d8433c2eb59",
+        "parentUid" : "1980e0a0eab6ac392c457d9d4038e20d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782164270,
+          "stop" : 1570782203406,
+          "duration" : 39136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_points_reward",
+        "uid" : "950a2888baeb06f4",
+        "parentUid" : "1980e0a0eab6ac392c457d9d4038e20d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782212070,
+          "stop" : 1570782245113,
+          "duration" : 33043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_promotion_purchase",
+        "uid" : "6855508e23b1ba61",
+        "parentUid" : "1980e0a0eab6ac392c457d9d4038e20d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570782300463,
+          "stop" : 1570782340087,
+          "duration" : 39624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1980e0a0eab6ac392c457d9d4038e20d"
+    }, {
+      "name" : "128-MainThread",
+      "children" : [ {
+        "name" : "test_appraisal_system",
+        "uid" : "47ce98bcfd2022b7",
+        "parentUid" : "9c8f24635d006848acbb34efbbf25bc5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1570781937205,
+          "stop" : 1570781937205,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c8f24635d006848acbb34efbbf25bc5"
+    } ],
+    "uid" : "2d5f20d341cf78e7a7db800ee188a4d5"
+  } ]
+}

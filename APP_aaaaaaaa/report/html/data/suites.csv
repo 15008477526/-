@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 11 16:23:32 CST 2019","Fri Oct 11 16:24:05 CST 2019","33043","script","test_03_points_reward","TestPointsReward","","","test_points_reward","积分商品购买测试用例"
+"passed","Fri Oct 11 16:22:44 CST 2019","Fri Oct 11 16:23:23 CST 2019","39136","script","test_02_normal_shopping","TestNormalShopping","","","test_normal_shopping","购买普通商品测试用例"
+"passed","Fri Oct 11 16:24:13 CST 2019","Fri Oct 11 16:24:51 CST 2019","38161","script","test_04_group_purchase","TestGroupPurchase","","","test_group_purchase","团购测试用例"
+"passed","Fri Oct 11 16:20:34 CST 2019","Fri Oct 11 16:22:13 CST 2019","99575","script","test_01_comment_system","TestCommentSystem","","","test_appraisal_system","商品评论测试用例"
+"passed","Fri Oct 11 16:25:00 CST 2019","Fri Oct 11 16:25:40 CST 2019","39624","script","test_05_promotion_purchase","TestPromotionPurchase","","","test_promotion_purchase","促销商品购买测试用例"
